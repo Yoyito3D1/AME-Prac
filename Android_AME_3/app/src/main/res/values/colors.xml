@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- res/values/colors.xml -->
+    <color name="colorPrimary">#3498db</color>      <!-- Azul-->
+    <color name="colorPrimaryDark">#2980b9</color>  <!-- Azul oscuro -->
+    <color name="colorAccent">#2ecc71</color>
+    <color name="azul">#78B4C6</color>
+    <!-- Verde -->
+
+
+</resources>
